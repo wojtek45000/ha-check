@@ -6,14 +6,14 @@ sites:
     url: http://cw-fibre.duckdns.org:8123/
 
 status-website:
-  # enlève le cname si tu n'as pas de domaine perso pour l’instant
+  baseUrl: /ha-check        # IMPORTANT
+  name: Home Assistant Status
   favicon: https://raw.githubusercontent.com/upptime/upptime/master/assets/favicon.png
   logoUrl: https://raw.githubusercontent.com/upptime/upptime/master/assets/logo.png
 
 assignees:
   - wojtek45000
 
-# pas obligatoire, Upptime passe déjà par les issues / notifs GitHub
 notifications:
   - type: email
     to: wjamka45@gmail.com
