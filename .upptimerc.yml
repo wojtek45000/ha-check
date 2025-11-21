@@ -1,18 +1,19 @@
-owner: TON_GITHUB_USERNAME
-repo: upptime
+owner: wojtek45000
+repo: ha-check
 
 sites:
   - name: Home Assistant CW Fibre
     url: http://cw-fibre.duckdns.org:8123/
 
 status-website:
-  cname: status.TONDOMAINE.com
+  # enlève le cname si tu n'as pas de domaine perso pour l’instant
   favicon: https://raw.githubusercontent.com/upptime/upptime/master/assets/favicon.png
   logoUrl: https://raw.githubusercontent.com/upptime/upptime/master/assets/logo.png
 
 assignees:
-  - TON_GITHUB_USERNAME
+  - wojtek45000
 
+# pas obligatoire, Upptime passe déjà par les issues / notifs GitHub
 notifications:
   - type: email
     to: wjamka45@gmail.com
