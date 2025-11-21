@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cw-fibre.duckdns.org.ico",
     "slug": "home-assistant-cw-fibre",
     "status": "down",
-    "uptime": "3.38%",
-    "uptimeDay": "3.38%",
-    "uptimeWeek": "3.38%",
-    "uptimeMonth": "3.38%",
-    "uptimeYear": "3.38%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-11-21": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
